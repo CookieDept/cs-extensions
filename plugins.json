@@ -1,0 +1,237 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/animerulz.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "animerulz",
+        "internalName": "animerulz",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "indian multi language",
+        "fileSize": 116969,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/animerulz.jpeg",
+        "apiVersion": 1,
+        "fileHash": "sha256-542efb963b5ef95219dd6426ca1d85d617616de570667f98339b146f5c7a8e12"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/finddrama.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "finddrama",
+        "internalName": "finddrama",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "short dramas",
+        "fileSize": 75537,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "all",
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/finddrama.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-8b691c9e59e1253c2a805d5dd39800a1540aed1f5d5d80119304e7305a2a032c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/movierulz.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "movierulz",
+        "internalName": "movierulz",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "telugu movies and dubbed cinema",
+        "fileSize": 68657,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "te",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/movierulz.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-28c4c5197a5200df24636f622536a87d2df61edf9dd8bc7bf592d132f334a037"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/movieswood.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "movieswood",
+        "internalName": "movieswood",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "indian multi language",
+        "fileSize": 54968,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "te",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/movieswood.webp",
+        "apiVersion": 1,
+        "fileHash": "sha256-6b453518a787823742e5fe785e92d972c6ac361a87a5e12d4e76a0847e57e536"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/moviezwap.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "moviezwap",
+        "internalName": "moviezwap",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "telugu movies, series and hollywood dubbed",
+        "fileSize": 38848,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "te",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/moviezwap.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ec74cf3225abe31d82b010402ed90efaa3cfcbbd76d211ede0ecbac362aa2837"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/nunodrama.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "nunodrama",
+        "internalName": "nunodrama",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "short drama catalogues with english/indonesian switch",
+        "fileSize": 76384,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "all",
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/nunodrama.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6d5750e5387cbbfd07a80ba5500cdf2a2d005e1d48e7302aa01c9a24043f6fbf"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/omnisource.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "omnisource",
+        "internalName": "omnisource",
+        "authors": [
+            "decodede"
+        ],
+        "description": "one home for movie and tv streams",
+        "fileSize": 180523,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Others"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/omnisource.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a024e435fef818864a9a99fecd365deae7c5ba4279789358eca3b14108c9fda1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/reelfren.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "reelfren",
+        "internalName": "reelfren",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "every reelfren site as its own provider",
+        "fileSize": 46636,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "all",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/reelfren.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-39f9199950bf1a14c9149e1e27394c39d22b3082bd172ddac18f306fcac40b9e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/stremio.cs3",
+        "status": 2,
+        "version": 1,
+        "name": "stremio",
+        "internalName": "stremio",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "stremio add-ons as cloudstream sources",
+        "fileSize": 173949,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Other"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/stremio.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6b16099cd8f6fb904dd81b0332c6c5d52e28008aec4b009b4e39ee3205a86d69"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/teluguscreen.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "teluguscreen",
+        "internalName": "teluguscreen",
+        "authors": [
+            "cookie \ud83c\udf6a"
+        ],
+        "description": "telugu movies in hd",
+        "fileSize": 21905,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "te",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/teluguscreen.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a5287152745541c2fdfc717e00719d6380625ec1b1ef1671f11c943307fef574"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/wcotv.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "wcotv",
+        "internalName": "wcotv",
+        "authors": [
+            "cookie"
+        ],
+        "description": "cartoons, anime, series and movies from wco",
+        "fileSize": 100883,
+        "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "Cartoon",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/wcotv.jpeg",
+        "apiVersion": 1,
+        "fileHash": "sha256-4190445a6a8a18fac6dcb7abaafff2bcdc7b4ac96b966f414567e9c13c9c2c0e"
+    }
+]

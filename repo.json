@@ -1,0 +1,9 @@
+{
+	"name": "Few Cookies 🍪",
+	"description": "movie and series extensions",
+	"iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/profile.jpg",
+	"manifestVersion": 1,
+	"pluginLists": [
+		"https://raw.githubusercontent.com/CookieDept/cs-extensions/main/plugins.json"
+	]
+}
