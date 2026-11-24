@@ -9,5 +9,5 @@ https://raw.githubusercontent.com/CookieDept/cs-extensions/main/repo.json
 ```
 
 
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=decodede&repo=cs-repo&countColor=%23007EC6)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=CookieDept&repo=cs-extensions&countColor=%23007EC6)
 
