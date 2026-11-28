@@ -150,14 +150,14 @@
     {
         "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/reelfren.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "reelfren",
         "internalName": "reelfren",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "every reelfren site as its own provider",
-        "fileSize": 46636,
+        "fileSize": 47518,
         "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
         "language": "all",
         "tvTypes": [
@@ -167,7 +167,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/reelfren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-39f9199950bf1a14c9149e1e27394c39d22b3082bd172ddac18f306fcac40b9e"
+        "fileHash": "sha256-066f778830e40a4036058e4f4de1fb044cea475ebdb26d39848d61d84a12a93a"
     },
     {
         "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/stremio.cs3",
