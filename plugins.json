@@ -172,14 +172,14 @@
     {
         "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/stremio.cs3",
         "status": 2,
-        "version": 1,
+        "version": 2,
         "name": "stremio",
         "internalName": "stremio",
         "authors": [
             "cookie \ud83c\udf6a"
         ],
         "description": "stremio add-ons as cloudstream sources",
-        "fileSize": 173949,
+        "fileSize": 173972,
         "repositoryUrl": "https://github.com/CookieDept/cs-extensions",
         "language": "en",
         "tvTypes": [
@@ -189,7 +189,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/icons/stremio.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6b16099cd8f6fb904dd81b0332c6c5d52e28008aec4b009b4e39ee3205a86d69"
+        "fileHash": "sha256-490246ade50aadc16d9787a57a06288e3b17c0071fe0743c376cf62b45305788"
     },
     {
         "url": "https://raw.githubusercontent.com/CookieDept/cs-extensions/main/teluguscreen.cs3",
